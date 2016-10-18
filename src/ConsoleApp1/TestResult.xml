@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="0" testcasecount="2" result="Passed" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="2" portable-engine-version="3.3.0.0" start-time="2016-10-18 22:53:05Z" end-time="2016-10-18 22:53:05Z" duration="0.249998">
+  <test-suite type="Assembly" id="1003" name="ConsoleApp1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" fullname="ConsoleApp1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" runstate="Runnable" testcasecount="2" result="Passed" start-time="2016-10-18 22:53:05Z" end-time="2016-10-18 22:53:05Z" duration="0.077976" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="2">
+    <settings>
+      <setting name="WorkDirectory" value="C:\test\ConsoleApp1\src\ConsoleApp1" />
+    </settings>
+    <test-suite type="TestSuite" id="1004" name="ConsoleApp1" fullname="ConsoleApp1" runstate="Runnable" testcasecount="2" result="Passed" start-time="2016-10-18 22:53:05Z" end-time="2016-10-18 22:53:05Z" duration="0.070662" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="2">
+      <test-suite type="TestFixture" id="1000" name="Program" fullname="ConsoleApp1.Program" classname="ConsoleApp1.Program" runstate="Runnable" testcasecount="2" result="Passed" start-time="2016-10-18 22:53:05Z" end-time="2016-10-18 22:53:05Z" duration="0.067110" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="2">
+        <test-case id="1001" name="SimpleTest" fullname="ConsoleApp1.Program.SimpleTest" methodname="SimpleTest" classname="ConsoleApp1.Program" runstate="Runnable" seed="736917357" result="Passed" start-time="2016-10-18 22:53:05Z" end-time="2016-10-18 22:53:05Z" duration="0.010637" asserts="1" />
+        <test-case id="1002" name="SimpleTest2" fullname="ConsoleApp1.Program.SimpleTest2" methodname="SimpleTest2" classname="ConsoleApp1.Program" runstate="Runnable" seed="1139248142" result="Passed" start-time="2016-10-18 22:53:05Z" end-time="2016-10-18 22:53:05Z" duration="0.000186" asserts="1" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
