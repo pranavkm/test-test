@@ -1,30 +1,28 @@
 ﻿
-
-using NUnit.Framework;
+using Xunit;
 
 namespace ConsoleApp1
 {
-    [TestFixture]
     public class Program
     {
-        [Test]
+        [Fact]
         public void SimpleTest()
         {
             var value = "Hello";
 
             var value2 = "Hello";
 
-            Assert.AreEqual(value, value2);
+            Assert.Equal(value, value2);
         }
 
-        [Test]
+        [Fact]
         public void SimpleTest2()
         {
             var value = "Hello";
 
             var value2 = "Hello";
 
-            Assert.AreEqual(value, value2);
+            Assert.Equal(value, value2);
         }
     }
 }
